@@ -1,6 +1,6 @@
 {
   "name": "portfolioTemplate",
-  "homepage":"http://irfanium.github.io/portofolio",
+  "homepage": "http://irfanium.github.io/portofolio",
   "version": "2.0.0",
   "private": true,
   "dependencies": {
